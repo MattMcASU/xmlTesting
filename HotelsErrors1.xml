@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel xmlns="http://tempuri.org/XMLSchema.xsd">
+<Hotels xmlns="http://tempuri.org/XMLSchema.xsd">
 
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
@@ -137,4 +137,4 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-</Hotel>
+</Hotels>

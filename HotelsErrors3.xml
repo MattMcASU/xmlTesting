@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel xmlns="http://tempuri.org/XMLSchema.xsd">
+<Hotels xmlns="http://tempuri.org/XMLSchema.xsd">
 
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
@@ -41,7 +41,7 @@
 		<Name>Hilton Phoenix Airport</Name>
 		<Phone>480-894-1600</Phone>
 		<Address NearestAirport="Phoenix Sky Harbor International Airport">
-			<Number>2435</Number>
+			<Number>2435
 			<Street>S 47th St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
@@ -137,4 +137,4 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-</Hotel>
+</Hotels>
