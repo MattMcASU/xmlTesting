@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns="http://tempuri.org/Hotels.xsd">
+
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7thSt</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Fairfield by Marriott Inn &amp; Suites Phoenix Midtown</Name>
+		<Phone>602-716-9900</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>2520</Number>
+			<Street>N Central Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Hyatt Place Tempe/Phoenix Airport</Name>
+		<Phone>480-804-9544</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>1413</Number>
+			<Street>W Rio Salado Pkwy</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Hilton Phoenix Airport</Name>
+		<Phone>480-894-1600</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>2435</Number>
+			<Street>S 47th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.8">
+		<Name>Country Inn &amp; Suites by Radisson, Phoenix Airport, AZ</Name>
+		<Phone>480-306-4343</Phone>
+		<Phone>480-306-7172</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>4702</Number>
+			<Street>E University Dr</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.2">
+		<Name>Valley Inn Downtown Phoenix</Name>
+		<Phone>602-252-6823</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>965</Number>
+			<Street>E Van Buren St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85006</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Home2 Suites by Hilton Phoenix Downtown</Name>
+		<Phone>602-603-1111</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>125</Number>
+			<Street>E Jackson St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name>Crowne Plaza Phoenix Airport - Phx by IHG</Name>
+		<Phone>602-273-7778</Phone>
+		<Phone>877-227-6963</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>4300</Number>
+			<Street>E Washington St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>Hilton Garden Inn Phoenix Airport North</Name>
+		<Phone>602-306-2323</Phone>
+		<Phone>877-782-9444</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>3838</Number>
+			<Street>E Van Buren St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85008</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.8">
+		<Name>Hotel San Carlos</Name>
+		<Phone>602-253-4121</Phone>
+		<Phone>602-253-6668</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>202</Number>
+			<Street>N Central Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Residence Inn by Marriott Phoenix Downtown</Name>
+		<Phone>602-603-2000</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>132</Number>
+			<Street>S Central Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
